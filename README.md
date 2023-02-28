@@ -1,10 +1,10 @@
 # Fallup-Detection
 This repository contains the code and documentation for a Fall Detection project using Nodemcu, MPU6050 and IFTTT.
 
-Overview
+#Overview
 This project is aimed at detecting falls of elderly people or individuals with mobility issues and alerting their caregivers or emergency services. The project uses a Nodemcu microcontroller and an MPU6050 accelerometer and gyroscope sensor to detect falls. The Nodemcu is programmed to connect to the internet and send a message to IFTTT when a fall is detected. IFTTT then sends an alert to the caregiver's phone or to emergency services depending on the user's preference.
 
-Components
+#Components
 Nodemcu microcontroller
 MPU6050 accelerometer and gyroscope sensor
 Jumper wires
@@ -27,8 +27,7 @@ Test the project by simulating a fall or by gently tilting the sensor.
 Usage
 When a fall is detected, the Nodemcu board sends a message to IFTTT. IFTTT then triggers an alert on your phone or sends an email to emergency services. You can customize the alert settings on IFTTT to suit your preferences.
 
-Contributing
+#Contributing
 Contributions are welcome! If you find a bug or have an improvement suggestion, please open an issue or submit a pull request.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+
