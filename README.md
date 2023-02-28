@@ -24,6 +24,9 @@ MPU6050 library for Arduino IDE
 
 IFTTT account
 
+## **Circuit**
+<img align="center" alt="Coding" width="400" src="https://iotdesignpro.com/sites/default/files/inline-images/Circuit-Diagram-For-IoT-Based-Fall-Detector.jpg">
+
 
 ## **Installation**
 Clone this repository to your local machine.
@@ -48,5 +51,5 @@ When a fall is detected, the Nodemcu board sends a message to IFTTT. IFTTT then 
 ## **Contributing**
 Contributions are welcome! If you find a bug or have an improvement suggestion, please open an issue or submit a pull request.
 
-![logo] (https://avatars.githubusercontent.com/u/57462939?v=4)
+
 
