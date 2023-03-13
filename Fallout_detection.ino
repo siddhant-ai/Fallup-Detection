@@ -12,8 +12,8 @@ byte trigger2count=0; //stores the counts past since trigger 2 was set true
 byte trigger3count=0; //stores the counts past since trigger 3 was set true
 int angleChange=0;
 // WiFi network info.
-const char *ssid =  "Galaxy-M20";     // Enter your WiFi Name
-const char *pass =  "ac312124"; // Enter your WiFi Password
+const char *ssid =  "Home";     // Enter your WiFi Name
+const char *pass =  "12345678"; // Enter your WiFi Password
 void send_event(const char *event);
 const char *host = "maker.ifttt.com";
 const char *privateKey = "hUAAAz0AVvc6-NW1UmqWXXv6VQWmpiGFxx3sV5rnaM9";
